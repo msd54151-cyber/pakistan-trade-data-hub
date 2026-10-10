@@ -1,0 +1,11 @@
+app/cache/
+cache/
+app/refresh_log.json
+refresh_log.json
+*.log
+*.pid
+*.tmp
+*.zip
+__pycache__/
+*.pyc
+imf.json
